@@ -1,45 +1,51 @@
 {
-    "backgroundType": "gradient",
-    "plainBackgroundMode": "daylight",
-    "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-    "FirstName": "Allen",
-    "MiddleName": "",
-    "LastName": "Yan",
-    "devDesc": "| Engineer | Programmer | Full Stack Developer  ",
+    "backgroundType": "gradientColors",
+    "plainBackgroundMode": "night",
+    "gradientColors": "#2193b0, #2193b0, #2193b0, #2193b0",
+    "FirstName": "Daniel",
+    "MiddleName": "Cheese",
+    "LastName": "Wu",
+    "devDesc": "|🤣 Famous poo-er 🤣 cheese is cool 🤣 I like cheese by the way 🤣",
     "icons": [{
             "id": 0,
-            "image": "fa-github",
-            "url": "https://github.com/anglesvar",
+            "image": "fa-facebook",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
             "style": "socialicons"
         },
         {
             "id": 1,
-            "image": "fa-facebook",
-            "url": "https://www.facebook.com/",
+            "image": "fa-yandex",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
             "style": "socialicons"
         },
         {
             "id": 2,
-            "image": "fa-instagram",
-            "url": "https://www.instagram.com/",
+            "image": "fa-amazon",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
             "style": "socialicons"
         },
         {
             "id": 3,
-            "image": "fa-linkedin",
-            "url": "https://www.linkedin.com/",
+            "image": "fa-yahoo",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "style": "socialicons"
+        },
+        {
+            "id": 4,
+            "image": "fa-youtube",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
             "style": "socialicons"
         }
     ],
-    "aboutHeading": "About Me",
-    "aboutDescription": "I'm Allen Yan, a software developer",
-    "projectHeading": "My Works",
+    "aboutHeading": "Cheese is Yummy",
+    "aboutDescription": "I'm Daniel Wu, a piece of poo",
+    "projectHeading": "My Famous poos",
     "gitHubLink": "https://api.github.com/users/",
-    "gitHubUsername": "xiaoAllen1",
+    "gitHubUsername": "D4ni3lW13",
     "gitHubQuerry": "/repos?sort=created&direction=desc",
     "projectsLength": 4,
     "showNavigationbar": true,
-    "resumeLink": "https://docs.google.com/document/u/1/d/e/2PACX-1vQvhekOawiaeHBGyJTfQiY7RMFNxPgzm9tFuy5gSfOzwOtprqTOgR5qcVAOypdX9YbBQRLG6b7Nr-pr/pub",
+    "resumeLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "mobileNumber": "888888888",
-    "emailId": "allenyan0817@gmail.com"
+    "emailId": "danielwu1230@gmail.com"
 }
